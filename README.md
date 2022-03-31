@@ -3,9 +3,9 @@ Cursando Desenvolvimento de Software Multiplataforma na Fatec Franca
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelchioca&show_icons=true&theme=tokyonight)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelchioca&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchioca&layout=compact&theme=tokyonight)](https://github.com/rafaelchioca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchioca&layout=compact&theme=midnight-purple)](https://github.com/rafaelchioca/github-readme-stats)
 
 ### Tecnologias
 
